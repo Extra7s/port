@@ -424,8 +424,9 @@ h3.my-profession{
     flex: 0 0 50%;
     max-width: 50%;
     margin-top: 30px;
-}
-.about .about-content h3.title{
+}.about .about-content .experience{
+    display: none;
+}.about .about-content h3.title{
     font-size: 24px;
     margin-bottom: 30px;
     font-weight: 700;
